@@ -6,6 +6,11 @@ export default defineConfig({
     screenshotOnRunFailure: true,
     viewportWidth: 1980,
     viewportHeight: 1024,
+
+    setupNodeEvents(on, config) {
+      require("@cypress/code-coverage/task")(on, config);
+      return config;
+    },
   },
 
   component: {
@@ -14,6 +19,10 @@ export default defineConfig({
     devServer: {
       framework: "create-react-app",
       bundler: "webpack",
+    },
+    setupNodeEvents(on, config) {
+      require("@cypress/code-coverage/task")(on, config);
+      return config;
     },
   },
 });
