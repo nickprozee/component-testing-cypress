@@ -1,31 +1,4 @@
 {
-  "/Users/nick/Projects/Codestar/component-testing-cypress/coverage/lcov-report/block-navigation.js": {
-    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/coverage/lcov-report/block-navigation.js",
-    "statementMap": {},
-    "fnMap": {},
-    "branchMap": {},
-    "s": {},
-    "f": {},
-    "b": {}
-  },
-  "/Users/nick/Projects/Codestar/component-testing-cypress/coverage/lcov-report/prettify.js": {
-    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/coverage/lcov-report/prettify.js",
-    "statementMap": {},
-    "fnMap": {},
-    "branchMap": {},
-    "s": {},
-    "f": {},
-    "b": {}
-  },
-  "/Users/nick/Projects/Codestar/component-testing-cypress/coverage/lcov-report/sorter.js": {
-    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/coverage/lcov-report/sorter.js",
-    "statementMap": {},
-    "fnMap": {},
-    "branchMap": {},
-    "s": {},
-    "f": {},
-    "b": {}
-  },
   "/Users/nick/Projects/Codestar/component-testing-cypress/cypress.config.ts": {
     "path": "/Users/nick/Projects/Codestar/component-testing-cypress/cypress.config.ts",
     "statementMap": {},
@@ -37,6 +10,15 @@
   },
   "/Users/nick/Projects/Codestar/component-testing-cypress/src/react-app-env.d.ts": {
     "path": "/Users/nick/Projects/Codestar/component-testing-cypress/src/react-app-env.d.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/nick/Projects/Codestar/component-testing-cypress/cypress/plugins/index.ts": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/cypress/plugins/index.ts",
     "statementMap": {},
     "fnMap": {},
     "branchMap": {},
