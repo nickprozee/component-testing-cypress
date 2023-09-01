@@ -11,7 +11,7 @@ declare global {
       ): Chainable<JQuery<HTMLElement>>;
 
       klikGenereerButton(): Chainable<JQuery<HTMLElement>>;
-      getVraag(): Chainable<JQuery<HTMLElement>>;
+      getVraag(): Chainable<string>;
       getAntwoord(): Chainable<JQuery<HTMLElement>>;
       getCard(): Chainable<JQuery<HTMLElement>>;
     }

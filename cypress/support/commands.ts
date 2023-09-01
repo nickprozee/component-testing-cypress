@@ -14,7 +14,7 @@ Cypress.Commands.add("getCard", function () {
 });
 
 Cypress.Commands.add("getVraag", function () {
-  return cy.get(`[cypress-id=card-title]`);
+  return cy.get(`[cypress-id=card-title]`).then(vragen => cy.wrap(vragen[0].innerHTML));
 });
 
 Cypress.Commands.add("getAntwoord", function () {
