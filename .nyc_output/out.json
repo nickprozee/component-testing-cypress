@@ -1,1 +1,236 @@
-{}
+{
+  "/Users/nick/Projects/Codestar/component-testing-cypress/coverage/lcov-report/block-navigation.js": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/coverage/lcov-report/block-navigation.js",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/nick/Projects/Codestar/component-testing-cypress/coverage/lcov-report/prettify.js": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/coverage/lcov-report/prettify.js",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/nick/Projects/Codestar/component-testing-cypress/coverage/lcov-report/sorter.js": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/coverage/lcov-report/sorter.js",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/nick/Projects/Codestar/component-testing-cypress/cypress.config.ts": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/cypress.config.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/nick/Projects/Codestar/component-testing-cypress/src/react-app-env.d.ts": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/src/react-app-env.d.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/nick/Projects/Codestar/component-testing-cypress/cypress/support/commands.ts": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/cypress/support/commands.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/nick/Projects/Codestar/component-testing-cypress/cypress/support/component.ts": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/cypress/support/component.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/nick/Projects/Codestar/component-testing-cypress/cypress/support/e2e.ts": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/cypress/support/e2e.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/nick/Projects/Codestar/component-testing-cypress/cypress/support/index.ts": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/cypress/support/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/nick/Projects/Codestar/component-testing-cypress/instrumented/components/index.ts": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/instrumented/components/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/nick/Projects/Codestar/component-testing-cypress/instrumented/factories/JokeFactory.ts": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/instrumented/factories/JokeFactory.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/nick/Projects/Codestar/component-testing-cypress/instrumented/factories/index.ts": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/instrumented/factories/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/nick/Projects/Codestar/component-testing-cypress/src/components/index.ts": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/src/components/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/nick/Projects/Codestar/component-testing-cypress/src/factories/JokeFactory.ts": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/src/factories/JokeFactory.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/nick/Projects/Codestar/component-testing-cypress/src/factories/index.ts": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/src/factories/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/nick/Projects/Codestar/component-testing-cypress/cypress/e2e/google/simple.cy.ts": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/cypress/e2e/google/simple.cy.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/nick/Projects/Codestar/component-testing-cypress/instrumented/App.tsx": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/instrumented/App.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/nick/Projects/Codestar/component-testing-cypress/instrumented/index.tsx": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/instrumented/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/nick/Projects/Codestar/component-testing-cypress/src/App.tsx": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/src/App.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/nick/Projects/Codestar/component-testing-cypress/src/index.tsx": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/src/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/nick/Projects/Codestar/component-testing-cypress/cypress/component/App.cy.tsx": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/cypress/component/App.cy.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/nick/Projects/Codestar/component-testing-cypress/cypress/component/Card.cy.tsx": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/cypress/component/Card.cy.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/nick/Projects/Codestar/component-testing-cypress/instrumented/components/Card.tsx": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/instrumented/components/Card.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/nick/Projects/Codestar/component-testing-cypress/instrumented/components/Page.tsx": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/instrumented/components/Page.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/nick/Projects/Codestar/component-testing-cypress/src/components/Card.tsx": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/src/components/Card.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/nick/Projects/Codestar/component-testing-cypress/src/components/Page.tsx": {
+    "path": "/Users/nick/Projects/Codestar/component-testing-cypress/src/components/Page.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  }
+}
