@@ -22,6 +22,6 @@ describe("Card.cy.tsx", () => {
       />
     );
 
-    cy.zoekOpClassNaam('MuiPaper');
+    cy.getCard();
   });
 });

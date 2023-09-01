@@ -1,4 +1,4 @@
-import { mount } from 'cypress/react18';
+import { mount } from "cypress/react18";
 export {};
 
 declare global {
@@ -9,6 +9,11 @@ declare global {
         className: string,
         timeout?: number
       ): Chainable<JQuery<HTMLElement>>;
+
+      klikGenereerButton(): Chainable<JQuery<HTMLElement>>;
+      getVraag(): Chainable<JQuery<HTMLElement>>;
+      getAntwoord(): Chainable<JQuery<HTMLElement>>;
+      getCard(): Chainable<JQuery<HTMLElement>>;
     }
   }
 }

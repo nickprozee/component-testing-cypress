@@ -27,7 +27,7 @@ export function DemoCard(props: Props) {
 
       <CardContent sx={{ textAlign: "center", pt: 6 }}>
         <Typography cypress-id="card-title" gutterBottom variant="h5" component="div" sx={{fontWeight: 'bold'}}>
-          {props.title}?
+          {props.title}
         </Typography>
         <Typography cypress-id="card-content" variant="h5" color="text.secondary">
           {props.content}
@@ -35,7 +35,7 @@ export function DemoCard(props: Props) {
       </CardContent>
 
       <CardActions>
-        <Button cypress-id="card-button" size="large">Generate</Button>
+        <Button cypress-id="card-button" size="large" onClick={props.onClick}>Generate</Button>
       </CardActions>
     </Card>
   );
