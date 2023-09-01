@@ -1,0 +1,1 @@
+export { JokeFactory } from "./JokeFactory";
