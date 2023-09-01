@@ -13,8 +13,25 @@ describe("Card.cy.tsx", () => {
       cy.klikGenereerButton();
 
       cy.getVraag().then((_vraag) => {
+
         cy.wrap(_vraag).should('not.eq', vraag);
         cy.wrap(_vraag).should('eq', _vraag);
+        
+      });
+    });
+  });
+
+  it("Changes the answer content on click", () => {
+    cy.mount(<App />);
+
+    cy.getAntwoord().then((antwoord) => {
+      cy.klikGenereerButton();
+
+      cy.getAntwoord().then((_antwoord) => {
+
+        cy.wrap(_antwoord).should('not.eq', antwoord);
+        cy.wrap(_antwoord).should('eq', _antwoord);
+        
       });
     });
   });
